@@ -1,4 +1,4 @@
-Name:                vin-uploader
+Name:                vin-upload-server
 Version:             0.1
 Synopsis:            Vin uploader Web Snap server
 Description:         Uploads vin in separate server
